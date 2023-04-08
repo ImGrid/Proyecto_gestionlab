@@ -1,0 +1,17 @@
+
+1. Dejar proyecto en la unidad "C".
+
+2. Descomprimir.
+
+3. Abrir carpeta principal del proyecto con VSCode.
+
+4. Abrir terminal desde VSCode.
+
+5. Entrar al proyecto desde la terminal:
+	cd login_react
+
+6. Instalar node en el proyecto:
+	npm install node
+
+7. Ejecutar proyecto:	
+	npm start
